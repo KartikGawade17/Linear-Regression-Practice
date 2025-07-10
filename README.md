@@ -56,7 +56,7 @@ To build a strong statistical foundation in regression modeling by solving probl
 
 Want to collaborate or share feedback?
 
-- GitHub: [your_username](https://github.com/your_username)
+- GitHub: [KartikGawade17](https://github.com/your_username)
 
 ---
 
