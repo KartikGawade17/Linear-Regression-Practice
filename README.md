@@ -5,6 +5,7 @@ Welcome to my notebook-based practice of **Simple Linear Regression** and **Mult
 This repository contains well-structured Jupyter notebooks that focus on:
 
 - Building regression models manually (without using high-level libraries like scikit-learn)
+- ANd understanding everything brother cause dont know fuck off i hate myself fuck everybody.
 - Understanding core statistical concepts through code
 - Practicing mathematical intuition behind regression line fitting and accuracy metrics
 
